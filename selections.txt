@@ -1,0 +1,14 @@
+Equal Weight Department - Real Estate Agent
+Verbal Department - Historian
+Numerical Department - Engineer
+Numerical Department - Software Developer
+Verbal Department - Translator
+Verbal Department - Writer
+Numerical Department - Statistician
+Equal Weight Department - Financial Analyst
+Verbal Department - Translator
+Numerical Department - Chemist
+Verbal Department - Invalid selection
+Numerical Department - Invalid selection
+Equal Weight Department - Invalid selection
+Verbal Department - Teacher
