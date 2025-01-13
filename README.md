@@ -32,18 +32,31 @@ This project provides a comprehensive career guidance tool for students preparin
 ### Project Structure
 career-guidance/
 ├── src/
+
 │ ├── main.cpp
+
 │ ├── Profession.cpp
+
 │ ├── numericalDepartment.cpp
+
 │ ├── verbalDepartment.cpp
+
 │ └── equalWeightDepartment.cpp
+
 ├── include/
+
 │ ├── Profession.h
+
 │ ├── numericalDepartment.h
+
 │ ├── verbalDepartment.h
+
 │ └── equalWeightDepartment.h
+
 └── data/
+
 └── selections.txt
+
 
 ## 📝 Usage
 
